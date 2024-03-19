@@ -1,0 +1,305 @@
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe.config
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.pdb
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csprojAssemblyReference.cache
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+D:\Lập trình C#\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe.config
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmBaoCao.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinKhachHang.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiem.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTroGiup.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmLuongNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.aa-ER.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csprojAssemblyReference.cache
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmBaoCao.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinKhachHang.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiem.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTroGiup.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmLuongNhanVien.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.aa-ER.resources
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
+C:\Users\Laptop\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDoiMatKhau.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDoiMatKhau.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe.config
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmBaoCao.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDoiMatKhau.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinKhachHang.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiem.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTroGiup.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmLuongNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.aa-ER.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe.config
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.pdb
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmBaoCao.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDoiMatKhau.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinKhachHang.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiem.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTroGiup.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmLuongNhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.aa-ER.resources
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+C:\Users\ADMIN\Downloads\QuanLyBanHangTaiPhucLong (1)\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe.config
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.pdb
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmBaoCao.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDoiMatKhau.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinKhachHang.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiem.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTroGiup.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmLuongNhanVien.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.aa-ER.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.HoaDon.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemHoaDon.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemKH.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemMonAn.resources
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmXuatNhapKho.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe.config
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.pdb
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmBaoCao.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDoiMatKhau.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinKhachHang.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiem.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemHoaDon.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemKH.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemMonAn.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTroGiup.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmLuongNhanVien.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmXuatNhapKho.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.HoaDon.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.aa-ER.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
+G:\My Drive\C#\Đồ án\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csprojAssemblyReference.cache
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\EnvDTE.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\stdole.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.MSXML.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.AssemblyReference.cache
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmrepertNV.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\RdlCompile.cache
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\RdlCompile.compiled
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmreportHD.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmreportKH.resources
+D:\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmreportCN.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe.config
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.exe
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\QuanLyBanHangTaiPhucLong.pdb
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\EnvDTE.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\stdole.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\Microsoft.MSXML.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csprojAssemblyReference.cache
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmBaoCao.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDangNhap.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmDoiMatKhau.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmGiaoDienChinh.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmrepertNV.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmreportCN.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmreportHD.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmreportKH.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinKhachHang.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmThongTinNhanVien.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiem.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemHoaDon.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemKH.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTimKiemMonAn.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmTroGiup.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmLuongNhanVien.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmXuatNhapKho.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.HoaDon.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.Properties.Resources.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.FrmChiNhanh.aa-ER.resources
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.GenerateResource.cache
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\RdlCompile.cache
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\RdlCompile.compiled
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CoreCompileInputs.cache
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\aa-ER\QuanLyBanHangTaiPhucLong.resources.dll
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.csproj.CopyComplete
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.exe
+D:\NĂM 2\Học kì 1\C#\Nhom1_QuanLyBanHangTaiPhucLong_5606_S4S6\QuanLyBanHangTaiPhucLong\QuanLyBanHangTaiPhucLong\obj\Debug\QuanLyBanHangTaiPhucLong.pdb
